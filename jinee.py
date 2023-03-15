@@ -1,3 +1,6 @@
 print('hi hello')
 print('hi')
-print('good J.U.B")
+for i in range(10):
+    print(i)
+
+  
